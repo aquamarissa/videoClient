@@ -4,7 +4,7 @@ import store from "../store/store";
 import * as webRTCHandler from "./webRTCHandler";
 
 //const SERVER = "http://localhost:5002";
-const SERVER = "https://annavideoserver.herokuapp.com";
+const SERVER = "https://video-server-rose.vercel.app";
 let socket = null;
 
 export const connectWithSocketIOServer = () => {
