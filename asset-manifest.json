@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/videoClient/static/css/main.caac50ea.chunk.css",
-    "main.js": "/videoClient/static/js/main.707e2047.chunk.js",
-    "main.js.map": "/videoClient/static/js/main.707e2047.chunk.js.map",
+    "main.js": "/videoClient/static/js/main.6311a419.chunk.js",
+    "main.js.map": "/videoClient/static/js/main.6311a419.chunk.js.map",
     "runtime-main.js": "/videoClient/static/js/runtime-main.748c7232.js",
     "runtime-main.js.map": "/videoClient/static/js/runtime-main.748c7232.js.map",
     "static/js/2.2623efe6.chunk.js": "/videoClient/static/js/2.2623efe6.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.748c7232.js",
     "static/js/2.2623efe6.chunk.js",
     "static/css/main.caac50ea.chunk.css",
-    "static/js/main.707e2047.chunk.js"
+    "static/js/main.6311a419.chunk.js"
   ]
 }
