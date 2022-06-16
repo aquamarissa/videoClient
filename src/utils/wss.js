@@ -4,7 +4,7 @@ import store from "../store/store";
 import * as webRTCHandler from "./webRTCHandler";
 
 //const SERVER = "http://localhost:5002";
-const SERVER = "https://04fa-37-73-103-44.eu.ngrok.io";
+const SERVER = "https://cbe3-46-211-149-149.eu.ngrok.io";
 let socket = null;
 
 export const connectWithSocketIOServer = () => {
